@@ -31,10 +31,10 @@ This code is developed using Pytorch on Linux machine. Full frozen environment c
 We include all training and eval bash scripts under 'bash_scripts/' folder. Please refer to 'config/' for optics and sensor specs, and 'utils/dataloader' for data processing. 
 
 ## Pre-trained Models and Optimized DOE Designs
-Optimzed DOE Designs and pre-trained models are available under 'ckpts/' folder available at http://2in1camera.cs.princeton.edu. Please refer to the supplemental documents for fabrication details.
+Optimzed DOE Designs and pre-trained models are available under 'ckpts/' folder available at [GDrive](https://drive.google.com/file/d/1_WDhok12Rp9Qpch9FkG0WJvwjNiY6o4y/view?usp=sharing). Please refer to the supplemental documents for fabrication details.
 
 ## Inference
-We include a sample script that demonstrates the reconstruction process using an experimental capture in outdoor setting, including the left-right calibration, reconstruction and test-time refinement. You can download the example capture and calibration under 'captures/' folder available at http://2in1camera.cs.princeton.edu and run the 'inference.ipynb' notebook in Jupyter Notebook.
+We include a sample script that demonstrates the reconstruction process using an experimental capture in outdoor setting, including the left-right calibration, reconstruction and test-time refinement. You can download the example capture and calibration under 'captures/' folder available at [GDrive](https://drive.google.com/file/d/1p31Ujv3C54icPS4t4cSK3Ni6640_OvdF/view?usp=sharing) and run the 'inference.ipynb' notebook in Jupyter Notebook.
 
 ## License
 Our code is licensed under BSL-1. By downloading the software, you agree to the terms of this License. 
